@@ -43,6 +43,11 @@
 // });
 
 $(document).on('ready', function() {
-	
-
+	// $('.button').click(function() {
+	// 	var popUp = 
+	// }
+	// $('.button')
+	$('.button').click(function() {
+	$('body').append("<div class='popUp'>")
+	}	
 });
